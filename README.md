@@ -13,4 +13,4 @@
 
 ## fixed_windows_buttons
 
-[![fixed_windows_buttons](assets/fixed_windows_buttons.png)](src\fixed_windows_buttons.py)
+[![fixed_windows_buttons](assets/fixed_windows_buttons.png)](src/fixed_windows_buttons.py)
