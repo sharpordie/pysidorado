@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyside2 = "*"
+pyside6 = "*"
+qasync = "*"
+
+[dev-packages]
+black = "*"
+
+[pipenv]
+allow_prereleases = true
