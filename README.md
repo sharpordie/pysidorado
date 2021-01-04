@@ -11,10 +11,36 @@
   </tr>
 </table>
 
-## fixed_windows_buttons
+<h2 align="center">Samples</h2>
 
-[![fixed_windows_buttons](assets/fixed_windows_buttons.png)](src/fixed_windows_buttons.py)
+<table>
+  <tr>
+      <td width="9999px" align="center">      
+        <a href="src/fixed_windows_buttons.py">fixed_windows_buttons</a>
+      </td>
+  </tr>
+  <tr>
+    <td width="9999px" align="center">
+      <p>
+        <br>
+        <img src="assets/fixed_windows_buttons.png" alt="fixed_windows_buttons">
+      </p>
+    </td>
+  </tr>
+</table>
 
-## progress_window
-
-[![progress_window](assets/progress_window.gif)](src/progress_window.py)
+<table>
+  <tr>
+      <td width="9999px" align="center">      
+        <a href="src/progress_window.py">progress_window</a>
+      </td>
+  </tr>
+  <tr>
+    <td width="9999px" align="center">
+      <p>
+        <br>
+        <img src="assets/progress_window.gif" alt="progress_window">
+      </p>
+    </td>
+  </tr>
+</table>
