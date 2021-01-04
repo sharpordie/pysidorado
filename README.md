@@ -15,9 +15,9 @@
 
 <table>
   <tr>
-      <td width="9999px" align="center">      
-        <a href="src/fixed_windows_buttons.py">fixed_windows_buttons</a>
-      </td>
+    <td width="9999px" align="center">      
+      <a href="src/fixed_windows_buttons.py">fixed_windows_buttons</a>
+    </td>
   </tr>
   <tr>
     <td width="9999px" align="center">
@@ -31,9 +31,9 @@
 
 <table>
   <tr>
-      <td width="9999px" align="center">      
-        <a href="src/progress_window.py">progress_window</a>
-      </td>
+    <td width="9999px" align="center">      
+      <a href="src/progress_window.py">progress_window</a>
+    </td>
   </tr>
   <tr>
     <td width="9999px" align="center">
